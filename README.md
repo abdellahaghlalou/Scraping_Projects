@@ -1,2 +1,4 @@
-# Scraping_AvitoSITE
-This is my work for scraping an e-commerce site called avito and extracting some usefull informations about data using pandas library 
+# Scraping
+There is two scraping projects in this repository : scraping products from ecom website & scraping facebook posts.
+# Scraping Facebook:
+# Scraping Avito.ma
